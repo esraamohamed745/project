@@ -1,4 +1,4 @@
-### landing page
+# landing page
 <details>
   <summary>language used</summary>
   html
